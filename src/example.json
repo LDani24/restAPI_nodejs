@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"Aliens",
+        "director":"James Cameron",
+        "year":"1986",
+        "rating":"8.5"
+    },
+    {
+        "id":"2",
+        "title":"Back to the Future",
+        "director":"Unknow",
+        "year":"1985",
+        "rating":"10" 
+    }
+]
